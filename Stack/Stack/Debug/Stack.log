@@ -1,0 +1,8 @@
+﻿  sunshouli_Stack.c
+  stack.c
+f:\stack\stack\stack.c(35): warning C4047: “函数”:“size_t”与“SElemType *”的间接级别不同
+f:\stack\stack\stack.c(35): warning C4024: “malloc”: 形参和实参 1 的类型不同
+f:\stack\stack\stack.c(35): warning C4020: “malloc”: 实参太多
+f:\stack\stack\stack.c(72): warning C4013: “gets”未定义；假设外部返回 int
+  正在生成代码...
+  Stack.vcxproj -> F:\Stack\Debug\Stack.exe
